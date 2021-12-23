@@ -56,7 +56,7 @@ Set the **SSS color** to (0.99, 0.84, 0.35).
 | ![SSS settings](\assets\img\daz3d\sss-settings.PNG) |
 | :----: |
 
-See below for the RGB values of **Transmitted color** and **SSS color**. 
+See below for the RGB values of **transmitted color** and **SSS color**. 
 
 | SSS RGB values |
 | :----: |
