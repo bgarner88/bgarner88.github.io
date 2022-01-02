@@ -229,7 +229,7 @@ The mics available to choose from are:
 
 You're able to mix and match these however you like to achieve your desired sound. You can also disable either of the mics using the **active** switch at the bottom for a single mic setup. 
 
-The **Position** knob controls the position of the mic in relatin to the speaker cone. A higher number will move the mic towards the outer edge. A lower number will move it closer to the center.
+The **Position** knob controls the position of the mic in relation to the speaker cone. A higher number will move the mic towards the outer edge. A lower number will move it closer to the center.
 
 The **Distance** knob controls the distance of the mic from the speaker. A higher number will move it farther away from the speaker. A lower number will move it closer. 
 
