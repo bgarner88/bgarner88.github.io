@@ -108,7 +108,7 @@ It has all the same knobs as the Rust amp. However, they're still independent of
 
 ![Pitch shift effects](\assets\img\gojira\pitch-shift.jpg)
 
-The Archetype Gojira comes with two ptich shifting effects. From left to right they are:
+The Archetype Gojira comes with two pitch shifting effects. From left to right they are:
 1. Wow
 2. Oct
 
