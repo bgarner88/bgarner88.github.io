@@ -66,7 +66,7 @@ Then in the far bottom right is the window size selection. Clicking that will br
 
 ## Amp Selection
 
-There are three types of amps in the Archetype Gojira plugin. They're called Cln, Rust, and Hot. They each have their own independant parameters, and you can switch between the amps without losing those settings. 
+There are three types of amps in the Archetype Gojira plugin. They're called Cln, Rust, and Hot. They each have their own independent parameters, and you can switch between the amps without losing those settings. 
 
 ### Cln
 
@@ -102,7 +102,7 @@ This is the high gain amp.
 
 ![High gain amp](\assets\img\gojira\default.jpg)
 
-It has all the same knobs as the Rust amp. However, they're still independant of one another. Switching amps will not carry the settings over. 
+It has all the same knobs as the Rust amp. However, they're still independent of one another. Switching amps will not carry the settings over. 
 
 ## Pitch Shift Effects
 
